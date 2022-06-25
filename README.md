@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 <h1>About Me</h1>
 <ul>
-  <li> 👋 I am Bilal Hoor</li>
- <li> 🔭 Interested in Computer Vision and AI</li>
+ <li> 👋 I am Bilal Hoor</li>
  <li> 💻 A graduate student majoring in Computer Systems Engineering</li>
+ <li> 🔭 Interested in Computer Vision and AI</li>
  <li> 📚 I love reading and literature, especially Russian literature</li>
  <li> 🌱 I am currently focusing on learning more in Computer Vision</li>
  <li> ✍ I like writing short stories and I hope to write a novel soon </li>
