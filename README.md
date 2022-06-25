@@ -32,7 +32,7 @@
 <br />
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="https://profile-counter.glitch.me/mkhasib/count.svg"></img>
+  <img src="https://profile-counter.glitch.me/Bilal-Mhmd/count.svg"></img>
 </div>
 
 <br /><br />
